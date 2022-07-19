@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @AlexandreWNeto
-- 🤔 I’m interested in task automation 🤖, data analysis 🔎 e machine learning 🤖🎓
+- 🤔 I’m interested in task automation 🤖, data analysis 🔎 and machine learning 🤖🎓
 - 📖 I’m usually write code in Python🐍 and JS📜
 - 📧 Reach me at alexandrewillik at gmail dot com.
 - ✍️ I write at alexandrewillikneto dot wordpress dot com.  
