@@ -12,7 +12,7 @@ Olá, meu nome é Alexandre Willik Neto.
 <br /> 
 Meus principais interesses são automação de tarefas, análise de dados e aprendizagem automática.
 <br /> 
-Para entrar em contato, escreva para alexandrewillik arroba gmail ponto com
+Para entrar em contato, escreva para alexandrewillik arroba gmail ponto com.
 Eu escrevo em minha página pessoal: alexandrewillikneto ponto wordpress ponto com.
 
 
