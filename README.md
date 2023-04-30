@@ -1,30 +1,27 @@
 
-Hi, my name is Alexandre Willik Neto.
-<br /> 
-I’m interested in task automation, data analysis and machine learning.
-<br /> 
-Reach me at alexandrewillik at gmail dot com.
-I write at alexandrewillikneto dot wordpress dot com.  
-<br /> 
-<br /> 
 
-Olá, meu nome é Alexandre Willik Neto.
-<br /> 
-Meus principais interesses são automação de tarefas, análise de dados e aprendizagem automática.
-<br /> 
-Para entrar em contato, escreva para alexandrewillik arroba gmail ponto com.
-Eu escrevo em minha página pessoal: alexandrewillikneto ponto wordpress ponto com.
+## _Tere! Olá! Hello!_ 👋
 
+I'm Alexandre, a control and automation engineer currently working as a traction power engineer in the UK. 
+<br/>
+I’m interested in machine learning 🤖🎓, data science 📊🔬 and task automation 🤖.
+<br/>
+I hold a Mechatronics degree from University of Brasilia (UnB, 2017) and I'm currently pursuing a postgraduate degree on Data Science and Big Data from Pontifícia Universidade Católica de Minas Gerais (PUC-MG, 2023). I also studied Mechatronics at University of Glasgow (UofG, 2014) as part of an exchange year with full scholarship.
 
-Hi there 👋 I'm <Name>!
-I'm a control and automation engineer with experience in the railway electrification and traction power sectors in the UK. I hold a Mechatronics degree from University of Brasilia (UnB) and I'm currently pursuing a postgraduate degree on Data Science and Big Data from Pontifícia Universidade Católica de Minas Gerais (PUC-MG).
+### Skills and Tech Stack
 
-🔧 Skills and Tech Stack
-Traction power simulation
-Python
-C++
-MATLAB & Simulink
-MS Excel
-Task automation (Selenium, PowerShell)
-Machine learning (Scikit-learn)
-Data visualisation (Matplotlib, Plotly)
+- Traction power simulation
+- Python
+- C++
+- MATLAB & Simulink
+- MS Excel
+- Task automation (Selenium, PowerShell)
+- Machine learning (Scikit-learn)
+- Data visualisation (Matplotlib, Plotly)
+
+### Contact
+
+- Email me at alexandrewillik at gmail dot com.
+- Check my personal page: https://alexandrewillikneto.wordpress.com/
+- [LinkedIn profile](https://www.linkedin.com/in/alexandre-willik-neto-411633122/)
+
