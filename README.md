@@ -6,7 +6,7 @@ I'm Alexandre, a control and automation engineer currently working as a traction
 <br/>
 I’m interested in machine learning 🤖🎓, data science 📊🔬 and task automation 🤖.
 <br/><br/>
-I hold a Mechatronics degree from University of Brasilia (UnB, 2017) and I'm currently pursuing a postgraduate degree on Data Science and Big Data from Pontifícia Universidade Católica de Minas Gerais (PUC-MG, 2023). I also studied Mechatronics at University of Glasgow (UofG, 2014) as part of an exchange year with full scholarship.
+I am a Chartered Engineer (CEng, MIET). I hold a Mechatronics degree from University of Brasilia (UnB, 2017) and I'm currently pursuing a postgraduate degree on Data Science and Big Data from Pontifícia Universidade Católica de Minas Gerais (PUC-MG, 2023). I also studied Mechatronics at University of Glasgow (UofG, 2014) as part of an exchange year with full scholarship.
 
 ### Skills and Tech Stack
 
