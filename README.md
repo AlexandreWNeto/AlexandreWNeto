@@ -16,3 +16,15 @@ Para entrar em contato, escreva para alexandrewillik arroba gmail ponto com.
 Eu escrevo em minha página pessoal: alexandrewillikneto ponto wordpress ponto com.
 
 
+Hi there 👋 I'm <Name>!
+I'm a control and automation engineer with experience in the railway electrification and traction power sectors in the UK. I hold a Mechatronics degree from University of Brasilia (UnB) and I'm currently pursuing a postgraduate degree on Data Science and Big Data from Pontifícia Universidade Católica de Minas Gerais (PUC-MG).
+
+🔧 Skills and Tech Stack
+Traction power simulation
+Python
+C++
+MATLAB & Simulink
+MS Excel
+Task automation (Selenium, PowerShell)
+Machine learning (Scikit-learn)
+Data visualisation (Matplotlib, Plotly)
