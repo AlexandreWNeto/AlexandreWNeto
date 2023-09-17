@@ -14,6 +14,7 @@ I am a Chartered Engineer (CEng, MIET). I hold a Mechatronics degree from Univer
 - Python
 - C++
 - Machine learning (Scikit-learn, Keras, TensorFlow, PyTorch)
+- SQL
 - MATLAB & Simulink
 - MS Excel
 - Task automation (Selenium, PowerShell)
