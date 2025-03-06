@@ -3,11 +3,9 @@
 ## _Tere! Olá! Hello!_ 👋
 
 I'm Alexandre, a control and automation engineer currently working as a Digital Consultant in the UK. 
-<br/>
-
+<br/><br/>
 I help businesses solve the _"productivity puzzle"_, designing solutions to improve efficiency by optimising processes and automating tasks.
-<br/>
-
+<br/><br/>
 I’m interested in machine learning 🤖🎓, data science 📊🔬 and task automation 🤖.
 <br/><br/>
 I am registered as a Chartered Engineer (CEng) with the Institute of Engineering and Technology (IET).
