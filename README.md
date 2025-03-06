@@ -10,11 +10,11 @@ I am a Chartered Engineer (CEng, MIET). I hold a Mechatronics degree from Univer
 
 ### Skills and Tech Stack
 
-- Traction power simulation
+- Machine learning (Scikit-learn, Keras, TensorFlow, PyTorch)
 - Python
 - C++
-- Machine learning (Scikit-learn, Keras, TensorFlow, PyTorch)
 - SQL
+- Traction power simulation
 - MATLAB & Simulink
 - MS Excel
 - Task automation (Selenium, PowerShell)
