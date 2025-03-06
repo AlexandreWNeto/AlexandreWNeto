@@ -8,9 +8,8 @@ I help businesses solve the _"productivity puzzle"_, designing solutions to impr
 <br/><br/>
 I’m interested in machine learning 🤖🎓, data science 📊🔬 and task automation 🤖.
 <br/><br/>
-I am registered as a Chartered Engineer (CEng) with the Institute of Engineering and Technology (IET).
-<br/><br/>
 I hold a Mechatronics degree from University of Brasilia (UnB, 2017) and postgraduate degree on Data Science and Big Data from Pontifícia Universidade Católica de Minas Gerais (PUC-MG, 2024). I also studied Mechatronics at University of Glasgow (UofG, 2014) as part of an exchange year with full scholarship.
+I am registered as a Chartered Engineer (CEng) with the Institute of Engineering and Technology (IET).
 
 ### Skills and Tech Stack
 
