@@ -4,7 +4,7 @@
 
 I'm Alexandre, a control and automation engineer currently working as a Digital Consultant in the UK. 
 <br/><br/>
-I help businesses solve the _"productivity puzzle"_, designing solutions to improve efficiency by optimising processes and automating tasks.
+As a Digital Consultant, I help businesses solve the _"productivity puzzle"_, designing solutions to improve efficiency by optimising processes and automating tasks.
 <br/><br/>
 I’m interested in machine learning 🤖🎓, data science 📊🔬 and task automation 🤖.
 <br/><br/>
